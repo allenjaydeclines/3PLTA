@@ -1,0 +1,9 @@
+{
+  "name": "tracker-1.2.0",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+  }
+}

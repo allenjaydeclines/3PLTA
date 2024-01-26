@@ -1,0 +1,11 @@
+{
+  "name": "underscore-1.0.10",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "dev": "nodemon --experimental-modules helper.mjs"
+  },
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

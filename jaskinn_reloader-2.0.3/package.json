@@ -1,0 +1,9 @@
+{
+  "name": "jaskinn_reloader-2.0.3",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+  }
+}

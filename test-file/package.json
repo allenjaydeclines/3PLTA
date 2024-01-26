@@ -1,0 +1,9 @@
+{
+  "name": "test-file",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+  }
+}
