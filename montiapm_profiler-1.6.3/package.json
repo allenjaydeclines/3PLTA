@@ -1,0 +1,9 @@
+{
+  "name": "montiapm_profiler-1.6.3",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+  }
+}
