@@ -1,0 +1,8 @@
+{
+  "name": "npm-depends",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {}
+}

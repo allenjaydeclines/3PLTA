@@ -4,6 +4,7 @@
 babel-compiler
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -35,6 +36,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -42,6 +76,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 babel-runtime
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -73,6 +108,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -80,6 +148,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 dynamic-import
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -111,6 +180,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -118,6 +220,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 ecmascript
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -149,6 +252,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -156,6 +292,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 ecmascript-runtime
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -187,6 +324,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -194,6 +364,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 ecmascript-runtime-client
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -225,6 +396,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -232,6 +436,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 ecmascript-runtime-server
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -263,6 +468,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -270,6 +508,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 fetch
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -301,6 +540,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -308,6 +580,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 inter-process-messaging
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -339,6 +612,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -346,6 +652,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 meteor
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -377,6 +684,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -384,6 +724,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 modern-browsers
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -415,6 +756,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -422,6 +796,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 modules
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -453,6 +828,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -460,6 +868,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 modules-runtime
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -491,6 +900,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -498,6 +940,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 promise
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -529,6 +972,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -536,6 +1012,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 react-fast-refresh
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -567,6 +1044,39 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 
 --------------------------------- (separator) ----------------------------------
 
@@ -574,6 +1084,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 tracker
 
 == License Type
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2011 - present Meteor Software Ltd.
@@ -605,4 +1116,37 @@ licenses, included in the LICENSES directory.
 
 == Copyright
 Copyright (c) 2011 - present Meteor Software Ltd.
+=======
+The MIT License (MIT)
+
+Copyright (c) 2011 - present Meteor Software Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+====================================================================
+This license applies to all code in Meteor that is not an externally
+maintained library. Externally maintained libraries have their own
+licenses, included in the LICENSES directory.
+====================================================================
+
+== Copyright
+Copyright (c) 2011 - present Meteor Software Ltd.
+>>>>>>> 285f9ffeb03be247381882e8a2ad42b8ae45a475
 

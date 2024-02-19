@@ -2,10 +2,9 @@
   "name": "underscore-1.0.10",
   "private": true,
   "scripts": {
-    "start": "meteor run",
-    "dev": "nodemon --experimental-modules helper.mjs"
+    "start": "meteor run"
   },
   "dependencies": {
-    "nodemon": "^3.0.3"
+    "double-ended-queue": "2.1.0-0"
   }
 }
