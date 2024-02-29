@@ -1,7 +1,7 @@
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-allow-deny
+@meteor/allow-deny
 
 == License Type
 The MIT License (MIT)
@@ -39,7 +39,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-babel-compiler
+@meteor/babel-compiler
 
 == License Type
 The MIT License (MIT)
@@ -77,7 +77,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-babel-runtime
+@meteor/babel-runtime
 
 == License Type
 The MIT License (MIT)
@@ -115,7 +115,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-base64
+@meteor/base64
 
 == License Type
 The MIT License (MIT)
@@ -153,7 +153,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-binary-heap
+@meteor/binary-heap
 
 == License Type
 The MIT License (MIT)
@@ -191,7 +191,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-boilerplate-generator
+@meteor/boilerplate-generator
 
 == License Type
 The MIT License (MIT)
@@ -229,7 +229,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-callback-hook
+@meteor/callback-hook
 
 == License Type
 The MIT License (MIT)
@@ -267,7 +267,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-check
+@meteor/check
 
 == License Type
 The MIT License (MIT)
@@ -305,7 +305,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-ddp
+@meteor/ddp
 
 == License Type
 The MIT License (MIT)
@@ -343,7 +343,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-ddp-client
+@meteor/ddp-client
 
 == License Type
 The MIT License (MIT)
@@ -381,7 +381,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-ddp-common
+@meteor/ddp-common
 
 == License Type
 The MIT License (MIT)
@@ -419,7 +419,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-ddp-server
+@meteor/ddp-server
 
 == License Type
 The MIT License (MIT)
@@ -457,7 +457,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-diff-sequence
+@meteor/diff-sequence
 
 == License Type
 The MIT License (MIT)
@@ -495,7 +495,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-dynamic-import
+@meteor/dynamic-import
 
 == License Type
 The MIT License (MIT)
@@ -533,7 +533,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-ecmascript
+@meteor/ecmascript
 
 == License Type
 The MIT License (MIT)
@@ -571,7 +571,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-ecmascript-runtime
+@meteor/ecmascript-runtime
 
 == License Type
 The MIT License (MIT)
@@ -609,7 +609,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-ecmascript-runtime-client
+@meteor/ecmascript-runtime-client
 
 == License Type
 The MIT License (MIT)
@@ -647,7 +647,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-ecmascript-runtime-server
+@meteor/ecmascript-runtime-server
 
 == License Type
 The MIT License (MIT)
@@ -685,7 +685,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-ejson
+@meteor/ejson
 
 == License Type
 The MIT License (MIT)
@@ -723,7 +723,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-fetch
+@meteor/fetch
 
 == License Type
 The MIT License (MIT)
@@ -761,7 +761,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-geojson-utils
+@meteor/geojson-utils
 
 == License Type
 The MIT License (MIT)
@@ -799,7 +799,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-id-map
+@meteor/id-map
 
 == License Type
 The MIT License (MIT)
@@ -837,7 +837,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-inter-process-messaging
+@meteor/inter-process-messaging
 
 == License Type
 The MIT License (MIT)
@@ -875,7 +875,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-logging
+@meteor/logging
 
 == License Type
 The MIT License (MIT)
@@ -913,7 +913,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-meteor
+@meteor/meteor
 
 == License Type
 The MIT License (MIT)
@@ -951,7 +951,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-minimongo
+@meteor/minimongo
 
 == License Type
 The MIT License (MIT)
@@ -989,7 +989,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-modern-browsers
+@meteor/modern-browsers
 
 == License Type
 The MIT License (MIT)
@@ -1027,7 +1027,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-modules
+@meteor/modules
 
 == License Type
 The MIT License (MIT)
@@ -1065,7 +1065,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-modules-runtime
+@meteor/modules-runtime
 
 == License Type
 The MIT License (MIT)
@@ -1103,7 +1103,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-mongo
+@meteor/mongo
 
 == License Type
 The MIT License (MIT)
@@ -1141,7 +1141,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-mongo-decimal
+@meteor/mongo-decimal
 
 == License Type
 The MIT License (MIT)
@@ -1179,7 +1179,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-mongo-dev-server
+@meteor/mongo-dev-server
 
 == License Type
 The MIT License (MIT)
@@ -1217,7 +1217,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-mongo-id
+@meteor/mongo-id
 
 == License Type
 The MIT License (MIT)
@@ -1255,7 +1255,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-npm-mongo
+@meteor/npm-mongo
 
 == License Type
 The MIT License (MIT)
@@ -1293,7 +1293,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-ordered-dict
+@meteor/ordered-dict
 
 == License Type
 The MIT License (MIT)
@@ -1331,7 +1331,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-promise
+@meteor/promise
 
 == License Type
 The MIT License (MIT)
@@ -1369,7 +1369,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-random
+@meteor/random
 
 == License Type
 The MIT License (MIT)
@@ -1407,7 +1407,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-react-fast-refresh
+@meteor/react-fast-refresh
 
 == License Type
 The MIT License (MIT)
@@ -1445,7 +1445,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-reload
+@meteor/reload
 
 == License Type
 The MIT License (MIT)
@@ -1483,7 +1483,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-retry
+@meteor/retry
 
 == License Type
 The MIT License (MIT)
@@ -1521,7 +1521,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-routepolicy
+@meteor/routepolicy
 
 == License Type
 The MIT License (MIT)
@@ -1559,7 +1559,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-socket-stream-client
+@meteor/socket-stream-client
 
 == License Type
 The MIT License (MIT)
@@ -1597,7 +1597,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-tracker
+@meteor/tracker
 
 == License Type
 The MIT License (MIT)
@@ -1635,7 +1635,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-underscore
+@meteor/underscore
 
 == License Type
 The MIT License (MIT)
@@ -1673,7 +1673,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-webapp
+@meteor/webapp
 
 == License Type
 The MIT License (MIT)
@@ -1711,7 +1711,7 @@ Copyright (c) 2011 - present Meteor Software Ltd.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-webapp-hashing
+@meteor/webapp-hashing
 
 == License Type
 The MIT License (MIT)
